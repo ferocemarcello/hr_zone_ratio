@@ -13,7 +13,7 @@ class HeartRateZonePercentageField extends Ui.SimpleDataField {
 
     function initialize() {
         SimpleDataField.initialize();
-        label = "HR Zone %";
+        label = "HR Live Zone Ratio";
     }
 
     // Function to determine the current heart rate zone
